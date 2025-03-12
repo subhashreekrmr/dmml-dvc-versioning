@@ -1,0 +1,5 @@
+['remote "subhashree-dmml"']
+    url = s3://subhashree-dmml/raw-data/dvc-cleaned/
+    access_key_id = AKIAU6VTTOOAVIPQSK7Q
+    secret_access_key = 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
+    region = eu-north-1
